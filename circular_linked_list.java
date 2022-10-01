@@ -16,8 +16,7 @@ public class Identical {
 		}
 	};
 
-	// Function to insert a node in
-	// tail in circular linked list
+	
 	static Node insertNode(Node head, Node tail, int d)
 	{
 		// First insertion in circular
